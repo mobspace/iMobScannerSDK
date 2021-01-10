@@ -16,8 +16,8 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "MobScannerSDK"
-  spec.version      = "0.0.1-beta"
-  spec.summary      = "The Mobscanner SDK for IOS is the IOS designed to perform faster image scanning and produce quality PDFs with few clicks. The SDK provides out of the box accurate, fast, and reliable mobile document scanning SDK for Android and IOS."
+  spec.version      = "1.0.0"
+  spec.summary      = "The Mobscanner SDK provides out of the box accurate, fast, and reliable mobile document scanning SDK for Android and IOS."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
