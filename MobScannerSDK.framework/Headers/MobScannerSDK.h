@@ -2,8 +2,8 @@
 //  MobScannerSDK.h
 //  MobScannerSDK
 //
-//  Created by Bharat Hazarika on 01/01/21.
-//  Copyright © 2021 Bharat Hazarika. All rights reserved.
+//  Created by TechVariable on 01/01/21.
+//  Copyright © 2021 TechVariable. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

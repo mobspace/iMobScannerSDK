@@ -2,8 +2,8 @@
 //  OpenCVWrapper.h
 //  MobScanner
 //
-//  Created by Bharat Hazarika on 14/12/20.
-//  Copyright © 2020 Bharat Hazarika. All rights reserved.
+//  Created by TechVariable on 14/12/20.
+//  Copyright © 2020 TechVariable. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

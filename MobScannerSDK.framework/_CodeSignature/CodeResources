@@ -10,31 +10,31 @@
 		</data>
 		<key>Headers/MobScannerSDK.h</key>
 		<data>
-		xJlC4OrNKsPujdAHg2RVfrkhOqw=
+		afFfnAnIWK+JbevvZ1kkipxd3Bo=
 		</data>
 		<key>Headers/OpenCVWrapper.h</key>
 		<data>
-		v2JEV7ymXGyfHYIw9JS9ySmEkBk=
+		0djHOGKBRK9uJ08097m4mHDS5nI=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		SyMngmlCxGXProXes/JJY/XwpoM=
+		pMdEqD1zPAZKzig8oz5NUzhwyA4=
 		</data>
 		<key>Modules/MobScannerSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		IvDdcg6Gd0c6f3ntykZP6Euhw4Y=
+		pphff+t1++F7Jm/Bay0wk622lDc=
 		</data>
 		<key>Modules/MobScannerSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		ub7R7teJNAVRhuCAGUKU+fFzlwM=
+		vqTXPitTgIRY2xX8syJJ5ZNz4Eo=
 		</data>
 		<key>Modules/MobScannerSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		IvDdcg6Gd0c6f3ntykZP6Euhw4Y=
+		pphff+t1++F7Jm/Bay0wk622lDc=
 		</data>
 		<key>Modules/MobScannerSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		ub7R7teJNAVRhuCAGUKU+fFzlwM=
+		vqTXPitTgIRY2xX8syJJ5ZNz4Eo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>auth.bin</key>
 		<data>
-		3Romv6MQwdL/qMZH2UDl5zlTboU=
+		sLNHl0wBP9pmBVeKrKw9XSZFlPA=
 		</data>
 		<key>camera.png</key>
 		<data>
@@ -74,42 +74,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5Vj+2krl0HYPlvWY6oX+KWnjTuzhPqxuaVP9nP4fPJE=
+			6AZRyYUJnli/g/tkPUKFiWzuEDz6UEEmev+fCJra4G8=
 			</data>
 		</dict>
 		<key>Headers/OpenCVWrapper.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yJ3tkGUk+H4Tu6Rr95TjxlC5XdbTvuI71XCPJ2aWf1Q=
+			0PI/N8d3c7Ckl11frematzyooKIvJ8PwPtgi/Be5Lso=
 			</data>
 		</dict>
 		<key>Modules/MobScannerSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			j3R0kxOZpos0ZQqMAvc+LTkQsB9hoLeOla5hgVzu3WQ=
+			Ut6KBU4d1y4iq09+Xm512WGthhoHRzeorywZ2TxQa7w=
 			</data>
 		</dict>
 		<key>Modules/MobScannerSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			a6WJvGjQuO25t3cs+SUMBWpegYtT7iu/P4TnBeRQAIg=
+			g8SXBTN9HS8KLyEuj28VO7SN3qPtuzT3s4CJN4Ry+nQ=
 			</data>
 		</dict>
 		<key>Modules/MobScannerSDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			j3R0kxOZpos0ZQqMAvc+LTkQsB9hoLeOla5hgVzu3WQ=
+			Ut6KBU4d1y4iq09+Xm512WGthhoHRzeorywZ2TxQa7w=
 			</data>
 		</dict>
 		<key>Modules/MobScannerSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			a6WJvGjQuO25t3cs+SUMBWpegYtT7iu/P4TnBeRQAIg=
+			g8SXBTN9HS8KLyEuj28VO7SN3qPtuzT3s4CJN4Ry+nQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -123,7 +123,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bCqgGvu24eaXA6IXFkGhDwq0+F3ozGe+icbTvaA7GlM=
+			R79MkKeykYGH+pIwBHp2ClzdvyFyvau/qtr6cWYhYcc=
 			</data>
 		</dict>
 		<key>camera.png</key>
