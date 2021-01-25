@@ -309,14 +309,14 @@ SWIFT_CLASS("_TtC13MobScannerSDK11BEMCheckBox")
 - (void)animationDidStop:(CAAnimation * _Nonnull)anim finished:(BOOL)flag;
 @end
 
-typedef SWIFT_ENUM_NAMED(NSInteger, BEMBoxType, "BoxType", closed) {
+typedef SWIFT_ENUM_NAMED(NSInteger, BEMBoxType, "BoxType", open) {
 /// Circled box.
   BEMBoxTypeCircle = 0,
 /// Squared box.
   BEMBoxTypeSquare = 1,
 };
 
-typedef SWIFT_ENUM_NAMED(NSInteger, BEMAnimationType, "AnimationType", closed) {
+typedef SWIFT_ENUM_NAMED(NSInteger, BEMAnimationType, "AnimationType", open) {
 /// Animates the box and the check as if they were drawn.
 /// *  Should be used with a clear colored <code>onFillColor</code> property.
   BEMAnimationTypeStroke = 0,

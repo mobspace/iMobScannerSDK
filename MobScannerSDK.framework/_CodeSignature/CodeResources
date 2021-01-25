@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/MobScannerSDK-Swift.h</key>
 		<data>
-		ZpJwOAL89SZ0330q2EVTH1PUp0Q=
+		fTpN+cQhsIscuyx/3ubeJqbIV8w=
 		</data>
 		<key>Headers/MobScannerSDK.h</key>
 		<data>
@@ -24,17 +24,25 @@
 		<data>
 		+yrDYdW1BQPfGVAHPe2VnbzB9oU=
 		</data>
+		<key>Modules/MobScannerSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<data>
+		NYh8eLmf3+cc9onVUWVAWscyWhM=
+		</data>
 		<key>Modules/MobScannerSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		dzcbGTHmR3ImbZq5iKBwTF7j7II=
+		935fbSuvFTiLvdx3uq3Hl5hwnBQ=
 		</data>
 		<key>Modules/MobScannerSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
 		+yrDYdW1BQPfGVAHPe2VnbzB9oU=
 		</data>
+		<key>Modules/MobScannerSDK.swiftmodule/arm64.swiftinterface</key>
+		<data>
+		NYh8eLmf3+cc9onVUWVAWscyWhM=
+		</data>
 		<key>Modules/MobScannerSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		dzcbGTHmR3ImbZq5iKBwTF7j7II=
+		935fbSuvFTiLvdx3uq3Hl5hwnBQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,7 +75,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9MTds9TdJx46Dm9CsTyhZvx2QBQ1UXW19BUHZOO2J9M=
+			Ar8UbiiYx0ymIkVOQMEgSBs7+0G4krCixx9tnaI/0ec=
 			</data>
 		</dict>
 		<key>Headers/MobScannerSDK.h</key>
@@ -91,11 +99,18 @@
 			rYzXB/hXVPasNcbkRPlHdZ1qH6WOhMSGX7OZmuPmr94=
 			</data>
 		</dict>
+		<key>Modules/MobScannerSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oxXYVXnmdMO75okCAEleaCJjGxAn2IGZzgL8B3cL4QM=
+			</data>
+		</dict>
 		<key>Modules/MobScannerSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			w6dpgc0OwA+onyZjKVQ1/q7d06jW3lsIN4aWOj8K/Y4=
+			1NwkVy+kKro02VA5kNWFhq4BIJ8FoM+YfDMMkQY6rmE=
 			</data>
 		</dict>
 		<key>Modules/MobScannerSDK.swiftmodule/arm64.swiftdoc</key>
@@ -105,11 +120,18 @@
 			rYzXB/hXVPasNcbkRPlHdZ1qH6WOhMSGX7OZmuPmr94=
 			</data>
 		</dict>
+		<key>Modules/MobScannerSDK.swiftmodule/arm64.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oxXYVXnmdMO75okCAEleaCJjGxAn2IGZzgL8B3cL4QM=
+			</data>
+		</dict>
 		<key>Modules/MobScannerSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			w6dpgc0OwA+onyZjKVQ1/q7d06jW3lsIN4aWOj8K/Y4=
+			1NwkVy+kKro02VA5kNWFhq4BIJ8FoM+YfDMMkQY6rmE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
