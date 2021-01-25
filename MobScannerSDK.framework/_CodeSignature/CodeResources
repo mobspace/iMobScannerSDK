@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/MobScannerSDK-Swift.h</key>
 		<data>
-		nk8HUlV0xgw2Y62XeGDjmy7dqAw=
+		ZpJwOAL89SZ0330q2EVTH1PUp0Q=
 		</data>
 		<key>Headers/MobScannerSDK.h</key>
 		<data>
@@ -22,19 +22,19 @@
 		</data>
 		<key>Modules/MobScannerSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		pphff+t1++F7Jm/Bay0wk622lDc=
+		+yrDYdW1BQPfGVAHPe2VnbzB9oU=
 		</data>
 		<key>Modules/MobScannerSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		vqTXPitTgIRY2xX8syJJ5ZNz4Eo=
+		dzcbGTHmR3ImbZq5iKBwTF7j7II=
 		</data>
 		<key>Modules/MobScannerSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		pphff+t1++F7Jm/Bay0wk622lDc=
+		+yrDYdW1BQPfGVAHPe2VnbzB9oU=
 		</data>
 		<key>Modules/MobScannerSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		vqTXPitTgIRY2xX8syJJ5ZNz4Eo=
+		dzcbGTHmR3ImbZq5iKBwTF7j7II=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1/XhioAemJSmXayHRlBTRmFiAUU8cuizKuxARaJBZmk=
+			9MTds9TdJx46Dm9CsTyhZvx2QBQ1UXW19BUHZOO2J9M=
 			</data>
 		</dict>
 		<key>Headers/MobScannerSDK.h</key>
@@ -88,28 +88,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ut6KBU4d1y4iq09+Xm512WGthhoHRzeorywZ2TxQa7w=
+			rYzXB/hXVPasNcbkRPlHdZ1qH6WOhMSGX7OZmuPmr94=
 			</data>
 		</dict>
 		<key>Modules/MobScannerSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g8SXBTN9HS8KLyEuj28VO7SN3qPtuzT3s4CJN4Ry+nQ=
+			w6dpgc0OwA+onyZjKVQ1/q7d06jW3lsIN4aWOj8K/Y4=
 			</data>
 		</dict>
 		<key>Modules/MobScannerSDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ut6KBU4d1y4iq09+Xm512WGthhoHRzeorywZ2TxQa7w=
+			rYzXB/hXVPasNcbkRPlHdZ1qH6WOhMSGX7OZmuPmr94=
 			</data>
 		</dict>
 		<key>Modules/MobScannerSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g8SXBTN9HS8KLyEuj28VO7SN3qPtuzT3s4CJN4Ry+nQ=
+			w6dpgc0OwA+onyZjKVQ1/q7d06jW3lsIN4aWOj8K/Y4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
