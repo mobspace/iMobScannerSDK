@@ -103,7 +103,7 @@ public class PDFSettings {
 }
 @_hasMissingDesignatedInitializers @objc final public class DeviceImagerPicker : MobScannerSDK.TatsiPickerViewController, MobScannerSDK.TatsiPickerViewControllerDelegate {
   final public var inputImagePickerDelegate: MobScannerSDK.InputImagePickerDelegate?
-  public init()
+  public init(numberOfSelection: Swift.Int)
   final public func pickerViewController(_ pickerViewController: MobScannerSDK.TatsiPickerViewController, didPickAssets assets: [Photos.PHAsset])
   @objc deinit
   override public init(config: MobScannerSDK.TatsiConfig = super)
@@ -384,6 +384,7 @@ public protocol InputImagePickerDelegate {
 }
 public protocol DocumentReadyDelegate {
   func onDocumentReady(outputImgFiles: [Swift.String])
+  func onUserCancelled()
 }
 public protocol SDKInitDelegate {
   func onInitSuccess()
