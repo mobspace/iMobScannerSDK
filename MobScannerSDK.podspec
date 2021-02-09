@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "MobScannerSDK"
-  spec.version      = "0.0.1-beta"
+  spec.version      = "0.0.2-beta"
   spec.summary      = "The Mobscanner SDK provides out of the box accurate, fast, and reliable mobile document scanning SDK for Android and IOS."
 
   # This description is used to generate tags and improve search results.
@@ -62,7 +62,7 @@ Pod::Spec.new do |spec|
   #
 
   # spec.platform     = :ios
-  spec.platform     = :ios, "13.0"
+  spec.platform     = :ios, "11.0"
   spec.ios.vendored_frameworks = 'MobScannerSDK.framework'
 
   #  When using multiple platforms

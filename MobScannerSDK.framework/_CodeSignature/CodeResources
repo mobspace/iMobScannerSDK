@@ -4,6 +4,54 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Frameworks/libswiftCore.dylib</key>
+		<data>
+		O2FTBDZj+6TGh3zNgAwuJPl3XCA=
+		</data>
+		<key>Frameworks/libswiftCoreFoundation.dylib</key>
+		<data>
+		TDtWWncvSTIR8aNZyAn3bL1iV8M=
+		</data>
+		<key>Frameworks/libswiftCoreGraphics.dylib</key>
+		<data>
+		IGvVJwxcFUZTG/vJFTBjr+mdprg=
+		</data>
+		<key>Frameworks/libswiftCoreImage.dylib</key>
+		<data>
+		/oEH9D2l3PqG8NapU38zCKuyxRc=
+		</data>
+		<key>Frameworks/libswiftDarwin.dylib</key>
+		<data>
+		bGpq0jsgrEQnidoMNMAM1LLKniQ=
+		</data>
+		<key>Frameworks/libswiftDispatch.dylib</key>
+		<data>
+		itS0D6oMdFIQJ3ASKF01OwAeUFE=
+		</data>
+		<key>Frameworks/libswiftFoundation.dylib</key>
+		<data>
+		M4OMHeh73FL4MCI+DBHBAZ9FOQQ=
+		</data>
+		<key>Frameworks/libswiftMetal.dylib</key>
+		<data>
+		M8/95DbKdtkbK8eEaKloQ8lZEN0=
+		</data>
+		<key>Frameworks/libswiftObjectiveC.dylib</key>
+		<data>
+		hIauP+WqBSMagsli8GTZiBSHFzs=
+		</data>
+		<key>Frameworks/libswiftQuartzCore.dylib</key>
+		<data>
+		YmSY/OvzWDIfTmsTnuawBblRg0A=
+		</data>
+		<key>Frameworks/libswiftUIKit.dylib</key>
+		<data>
+		8HQBTNA1D2ef/BVCFPZk9ne3C7I=
+		</data>
+		<key>Frameworks/libswiftos.dylib</key>
+		<data>
+		sb281VCtT9JK5lNWA3fa9nmz9nE=
+		</data>
 		<key>Headers/MobScannerSDK-Swift.h</key>
 		<data>
 		fTpN+cQhsIscuyx/3ubeJqbIV8w=
@@ -18,31 +66,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		pMdEqD1zPAZKzig8oz5NUzhwyA4=
+		zNx34ZtZpyXJpMlnIYzGpy9DiSo=
 		</data>
 		<key>Modules/MobScannerSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		+yrDYdW1BQPfGVAHPe2VnbzB9oU=
+		KNfg4/TCu2M6SLu7WGIQDbJWnmM=
 		</data>
 		<key>Modules/MobScannerSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		XAGcAlMYXo/cbY2e2xekN+QC3xY=
+		5SJ8jjBBt6jTymZR0dQ7BfcTb0w=
 		</data>
 		<key>Modules/MobScannerSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		cjUSPKgbupQbqy/jan639nJw8HQ=
+		Q79tlnqJfhHxfbu/lvmbmXylnmY=
 		</data>
 		<key>Modules/MobScannerSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		+yrDYdW1BQPfGVAHPe2VnbzB9oU=
+		KNfg4/TCu2M6SLu7WGIQDbJWnmM=
 		</data>
 		<key>Modules/MobScannerSDK.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		XAGcAlMYXo/cbY2e2xekN+QC3xY=
+		5SJ8jjBBt6jTymZR0dQ7BfcTb0w=
 		</data>
 		<key>Modules/MobScannerSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		cjUSPKgbupQbqy/jan639nJw8HQ=
+		Q79tlnqJfhHxfbu/lvmbmXylnmY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -55,6 +103,14 @@
 		<key>camera.png</key>
 		<data>
 		Apfzxpsi0XA5aRW/2VQC3G9R+vg=
+		</data>
+		<key>chevron-left.png</key>
+		<data>
+		xVavQ/Kl1l9hE+eJQtTcO2GjLcw=
+		</data>
+		<key>chevron-right.png</key>
+		<data>
+		THbmW03kenzkUHQXSGmZ9QEfwV0=
 		</data>
 		<key>flash_auto.png</key>
 		<data>
@@ -71,6 +127,90 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Frameworks/libswiftCore.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PH+PSWz0fy2zQxPUwWWQIBA9vbDPzAKQ4NU1678u0Tk=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftCoreFoundation.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9fWHo4OcuSxErL/7fIJbEUZqQ1QNzHpODXKvGbeE+PE=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftCoreGraphics.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ESV49lBMcwqkoG2pWW25XXkC4NkihEy8sacklepsWJk=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftCoreImage.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aje11AAmspGPccnpjp57mKIfayomyWIx3742NhRkyG4=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftDarwin.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lowEK3De8hp3iQJ8+w4YCDHhKiwdap+XwcKqomTfpcU=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftDispatch.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pfW9cOkA9BGD5xrGsPysfQH1qE7GsEBe5vOXiK/52co=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftFoundation.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0aRXPsNX//OY/p0+XOFb+UKtC5lQby+TkfDuqIP9JLQ=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftMetal.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			waHl0ydWt7v1Ej5EBf1bFKywjqorXNPc3CdYYX40NyU=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftObjectiveC.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WGI78Jcp4pkHRjtFzFuJr3CQblbA+qMyKaxvWjzcMGI=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftQuartzCore.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			V5VXhh/oqh3rb6nL9XAoL4hwVn3hxxFniILBhg03d3E=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftUIKit.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cEDzdKzdQFkbXlwKqeY9WxwOcrSnDe2AXs6Rh9pw/ag=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftos.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zin7GCZXWcGejXruvWZrzYWDUTB6DuvtTT6nD+dcViM=
+			</data>
+		</dict>
 		<key>Headers/MobScannerSDK-Swift.h</key>
 		<dict>
 			<key>hash2</key>
@@ -96,42 +236,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rYzXB/hXVPasNcbkRPlHdZ1qH6WOhMSGX7OZmuPmr94=
+			aO59nDmkQB2/10NFPqiXhdcQiajNm2eAVJlsdj5Y6aE=
 			</data>
 		</dict>
 		<key>Modules/MobScannerSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BCMVHUYtSFn7WLr8jf3H0JAo4HZc1qBdmNlbhJDEjPI=
+			e+CJp3ui4fVRchiHrUe9sed8uZ35NznCiD6j5WCTD8Y=
 			</data>
 		</dict>
 		<key>Modules/MobScannerSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EcDV9mrirJO9rELmxpcxB2wwQ0zXgTe1qIHt01WjB04=
+			bw6C8c/Scj6xqICBCT9wpiHe+sZr+T7D5jIn7qpEw/o=
 			</data>
 		</dict>
 		<key>Modules/MobScannerSDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rYzXB/hXVPasNcbkRPlHdZ1qH6WOhMSGX7OZmuPmr94=
+			aO59nDmkQB2/10NFPqiXhdcQiajNm2eAVJlsdj5Y6aE=
 			</data>
 		</dict>
 		<key>Modules/MobScannerSDK.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BCMVHUYtSFn7WLr8jf3H0JAo4HZc1qBdmNlbhJDEjPI=
+			e+CJp3ui4fVRchiHrUe9sed8uZ35NznCiD6j5WCTD8Y=
 			</data>
 		</dict>
 		<key>Modules/MobScannerSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EcDV9mrirJO9rELmxpcxB2wwQ0zXgTe1qIHt01WjB04=
+			bw6C8c/Scj6xqICBCT9wpiHe+sZr+T7D5jIn7qpEw/o=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -153,6 +293,20 @@
 			<key>hash2</key>
 			<data>
 			fdUI4XOw9Laed/xK67pKlvEF8Q5x9etyGuAcjCIjgsk=
+			</data>
+		</dict>
+		<key>chevron-left.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LE80SY+UtK0/TpnCtoiqFfVaxUqAKhZ1rrIoFmpSPy8=
+			</data>
+		</dict>
+		<key>chevron-right.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4qiL4IOVn2TmivKIZiyxpXLHPNpb8A553TMopBEDTD0=
 			</data>
 		</dict>
 		<key>flash_auto.png</key>
