@@ -14,12 +14,13 @@ NS_ASSUME_NONNULL_BEGIN
 @interface OpenCVWrapper : NSObject
 + (NSString *)openCVVersionString;
 +(NSMutableArray *) getLargestSquarePoints: (UIImage *) image : (CGSize) size;
-+(UIImage *) getTransformedImage: (CGFloat) newWidth : (CGFloat) newHeight : (UIImage *) origImage : (CGPoint [4]) corners : (CGSize) size;
++(UIImage *) getTransformedImage: (CGFloat) newWidth : (CGFloat) newHeight : (UIImage *) origImage : (CGPoint []) corners : (CGSize) size;
 +(UIImage *) getGrayImage: (UIImage *) origImage;
 +(UIImage *) getMagicImage: (UIImage *) origImage;
 +(UIImage *) getAutoImage: (UIImage *) origImage;
 +(UIImage *) applyAdaptiveGaussian: (UIImage *)origImage : (int) blockSize;
 +(UIImage *) applyAdaptiveMean: (UIImage *)origImage : (int) blockSize;
++(Boolean) isAllWhitePixels: (UIImage *)origImage;
 @end
 
 NS_ASSUME_NONNULL_END

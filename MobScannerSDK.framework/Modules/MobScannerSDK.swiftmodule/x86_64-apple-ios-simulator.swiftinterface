@@ -125,7 +125,7 @@ public class PDFSettings {
   public func setUpImage(image: UIKit.UIImage, screenSize: CoreGraphics.CGSize = UIScreen.main.bounds.size)
   public func rotateImage(angle: Swift.Float)
   public func reloadImage(screenSize: CoreGraphics.CGSize)
-  public func cropAndTransform(completionHandler: @escaping (UIKit.UIImage) -> Swift.Void)
+  public func cropAndTransform(completionHandler: @escaping (UIKit.UIImage?) -> Swift.Void)
   @objc deinit
   @objc override dynamic public init(frame: CoreGraphics.CGRect)
   @objc required dynamic public init?(coder: Foundation.NSCoder)
@@ -140,7 +140,7 @@ public class PDFSettings {
   @objc required dynamic public init?(coder: Foundation.NSCoder)
 }
 extension DispatchQueue {
-  public static func background<T>(background: (() -> T)? = nil, completion: ((T?) -> Swift.Void)? = nil)
+  public static func background<T>(background: (() -> T?)? = nil, completion: ((T?) -> Swift.Void)? = nil)
 }
 @objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class CameraView : UIKit.UIView, AVFoundation.AVCapturePhotoCaptureDelegate {
   public func startCamera(delegate: MobScannerSDK.CameraDelegate)
@@ -153,7 +153,8 @@ extension DispatchQueue {
   @objc deinit
 }
 @_hasMissingDesignatedInitializers public class MSSDKCore {
-  public static func getTransformedImage(newWidth: CoreGraphics.CGFloat, newHeight: CoreGraphics.CGFloat, origImage: UIKit.UIImage, corners: Swift.UnsafeMutablePointer<CoreGraphics.CGPoint>!, size: CoreGraphics.CGSize, callback: @escaping ((UIKit.UIImage?) -> ()))
+  public static func cropUsingCIFilter(image: UIKit.UIImage, corners: [CoreGraphics.CGPoint]) -> UIKit.UIImage?
+  public static func getTransformedImage(newWidth: CoreGraphics.CGFloat, newHeight: CoreGraphics.CGFloat, origImage: UIKit.UIImage, corners: [CoreGraphics.CGPoint], size: CoreGraphics.CGSize, callback: @escaping ((UIKit.UIImage?) -> ()))
   public static func getLargestSquarePoints(image: UIKit.UIImage, frameSize: CoreGraphics.CGSize, callback: @escaping ((Foundation.NSMutableArray?) -> ()))
   public static func applyFilter(filterType: MobScannerSDK.FilterTypes, image: UIKit.UIImage, callback: @escaping ((UIKit.UIImage?) -> ()))
   @objc deinit
@@ -467,8 +468,8 @@ extension TatsiPickerViewControllerDelegate {
   @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
 }
 @_hasMissingDesignatedInitializers public class Img2Pdf {
-  public static func createPDF(folderPath: Foundation.URL, jpegFiles: [Swift.String], outputFileName: Swift.String, callback: @escaping (((Foundation.URL?)?) -> ()))
-  public static func createPDF(jpegFiles: [Swift.String], outputFileName: Swift.String, callback: @escaping (((Foundation.URL?)?) -> ()))
+  public static func createPDF(folderPath: Foundation.URL, jpegFiles: [Swift.String], outputFileName: Swift.String, outputJpegQuality: Swift.Float = 0.9, callback: @escaping (((Foundation.URL?)?) -> ()))
+  public static func createPDF(jpegFiles: [Swift.String], outputFileName: Swift.String, outputJpegQuality: Swift.Float = 0.9, callback: @escaping (((Foundation.URL?)?) -> ()))
   @objc deinit
 }
 @_inheritsConvenienceInitializers @objc public class ImagePreviewViewController : MobScannerSDK.BaseViewController {
