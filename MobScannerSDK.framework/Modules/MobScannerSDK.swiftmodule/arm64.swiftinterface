@@ -23,6 +23,7 @@ import Vision
 }
 extension UIImage {
   public func rotate(degrees: Swift.Float) -> UIKit.UIImage?
+  public func resize(targetSize: CoreGraphics.CGSize, targetQuality: CoreGraphics.CGFloat = 1.0) -> UIKit.UIImage
 }
 public protocol TatsiColors {
   var background: UIKit.UIColor { get }
@@ -131,6 +132,8 @@ public class PDFSettings {
 @_inheritsConvenienceInitializers @objc public class CropViewController : MobScannerSDK.BaseViewController {
   public var outputFolder: Swift.String?
   public var imgFiles: [Swift.String]
+  public var outputImageTargetSize: CoreGraphics.CGSize?
+  public var outputImageQuality: CoreGraphics.CGFloat
   public var documentReadyDelegate: MobScannerSDK.DocumentReadyDelegate?
   @objc override dynamic public func viewDidLoad()
   @objc deinit
