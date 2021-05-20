@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.2.4 effective-4.2 (swiftlang-1103.0.32.9 clang-1103.0.32.53)
+// swift-compiler-version: Apple Swift version 5.3.2 effective-4.2 (swiftlang-1200.0.45 clang-1200.0.32.28)
 // swift-module-flags: -target x86_64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 4.2 -enforce-exclusivity=checked -Onone -module-name MobScannerSDK
 import AVFoundation
 import CommonCrypto
@@ -332,7 +332,7 @@ public protocol CardViewListDelegete : AnyObject {
     @objc get
     @objc set(value)
   }
-  @objc @IBInspectable public var animationDuration: CoreFoundation.CFTimeInterval {
+  @objc @IBInspectable public var animationDuration: Swift.Double {
     @objc get
     @objc set(value)
   }
@@ -432,7 +432,7 @@ extension TatsiPickerViewControllerDelegate {
   public func doneBarButtonItem(for pickerViewController: MobScannerSDK.TatsiPickerViewController) -> UIKit.UIBarButtonItem?
 }
 @objc final public class BEMAnimationManager : ObjectiveC.NSObject {
-  @objc final public var animationDuration: CoreFoundation.CFTimeInterval
+  @objc final public var animationDuration: Swift.Double
   @objc public init(animationDuration: CoreFoundation.CFTimeInterval)
   @objc final public func strokeAnimationReverse(_ reverse: Swift.Bool) -> QuartzCore.CABasicAnimation
   @objc final public func opacityAnimationReverse(_ reverse: Swift.Bool) -> QuartzCore.CABasicAnimation
@@ -478,9 +478,9 @@ extension TatsiPickerViewControllerDelegate {
 @_inheritsConvenienceInitializers @objc public class ImagePreviewViewController : MobScannerSDK.BaseViewController {
   public var previewImage: UIKit.UIImage?
   @objc override dynamic public func viewDidLoad()
+  @objc deinit
   @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
   @objc required dynamic public init?(coder: Foundation.NSCoder)
-  @objc deinit
 }
 @_inheritsConvenienceInitializers @objc public class BEMCheckBoxGroup : ObjectiveC.NSObject {
   @objc public var checkBoxes: Foundation.NSHashTable<MobScannerSDK.BEMCheckBox> {
